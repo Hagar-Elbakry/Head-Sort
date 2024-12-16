@@ -1,0 +1,3 @@
+D:/Materials/MST-using-Kruskal’s-Algorithm/cmake-build-debug/CMakeFiles/MST_using_Kruskals_Algorithm_.dir
+D:/Materials/MST-using-Kruskal’s-Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Materials/MST-using-Kruskal’s-Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
