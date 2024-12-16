@@ -1,1 +1,2 @@
-# Head-Sort
+# HeadSort& MST using Kruskal’s 
+Algorithm.
